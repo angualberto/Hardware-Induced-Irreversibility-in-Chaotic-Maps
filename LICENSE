@@ -1,0 +1,76 @@
+AGLE RESEARCH & PATENT PROTECTION LICENSE (RPL-1.0)
+
+Copyright (c) 2025 André Gualberto.
+All rights reserved.
+
+This license governs the use of the work entitled:
+
+"Cryptographic Entropy Generator Based on Chaotic Dynamics with Floating-Point Error Feedback"
+(also referred to as AGLE – Alpha-Gauss-Logistic Entropy Generator).
+
+────────────────────────────────────────
+1. OWNERSHIP
+────────────────────────────────────────
+The intellectual property, invention, algorithms, mathematical models, architecture,
+and all derivative concepts described in this repository and associated documents
+are the exclusive property of André Gualberto.
+
+This work is protected by copyright, trade secret law, and patent rights (pending).
+
+────────────────────────────────────────
+2. PERMITTED USE
+────────────────────────────────────────
+The following uses are explicitly permitted:
+
+• Reading, downloading, and archiving the material
+• Academic citation and scholarly discussion
+• Peer review and editorial evaluation
+• Non-commercial scientific study
+
+No other rights are granted.
+
+────────────────────────────────────────
+3. FORBIDDEN USE
+────────────────────────────────────────
+The following actions are STRICTLY PROHIBITED without written permission
+from the copyright holder:
+
+• Commercial use of any kind
+• Implementation, reimplementation, or reproduction of the algorithm
+• Use in software, firmware, hardware, or products
+• Reverse engineering
+• Training of AI models
+• Use in cryptographic systems, security systems, or random number generators
+• Creation of derivative works
+• Redistribution of modified versions
+• Use for benchmarking or competing systems
+
+────────────────────────────────────────
+4. NO OPEN-SOURCE RIGHTS
+────────────────────────────────────────
+This repository is NOT open source.
+
+No rights under MIT, Apache, GPL, BSD, or any other open-source license are granted.
+
+────────────────────────────────────────
+5. PATENT PROTECTION
+────────────────────────────────────────
+This disclosure constitutes prior art under patent law but does NOT grant
+any license to practice the invention.
+
+All patent rights remain exclusively with the author.
+
+────────────────────────────────────────
+6. NO WARRANTY
+────────────────────────────────────────
+This work is provided "as is" without warranty of any kind.
+
+────────────────────────────────────────
+7. VIOLATIONS
+────────────────────────────────────────
+Any unauthorized use constitutes infringement and may result in civil
+and criminal liability under international law.
+
+────────────────────────────────────────
+Contact:
+angualberto@gmail.com
