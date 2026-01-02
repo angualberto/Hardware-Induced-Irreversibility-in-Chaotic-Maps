@@ -1,0 +1,25 @@
+# Arquivos binários e executáveis
+*.bin
+*.bits
+*.o
+*.a
+*.so
+agle
+test_shake256
+agle_rng
+
+# Resultados de testes
+results/
+experiments/
+*.log
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Sistema
+.DS_Store
+Thumbs.db
